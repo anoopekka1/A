@@ -13,7 +13,7 @@ Open `index.html` in a browser, or publish this folder using GitHub Pages (repos
 - Responsive design and local browser storage
 
 ## Content and source discipline
-The uploaded source identifies this as *Classified Catalogue Code with additional rules for Dictionary Catalogue Code*, S. R. Ranganathan, 5th edition (1960). Chapter list is transcribed from its contents (PDF pages 10–17 / printed pages 7–14). The five laws are taken from PDF page 9. Every seeded question has a short reference note. The initial bank emphasizes source-verifiable details such as book structure and the introductory chapters; it is not yet a comprehensive question bank for every substantive cataloguing rule. Add questions only after checking the corresponding source pages. Never use a guessed page/rule reference.
+The uploaded source identifies this as *Classified Catalogue Code with additional rules for Dictionary Catalogue Code*, S. R. Ranganathan, 5th edition (1960). Chapter list is transcribed from its contents (PDF pages 10–17 / printed pages 7–14). The five laws are taken from PDF page 9. Every seeded question has a short reference note. The starter bank contains 54 questions, including source-verifiable book-structure and introductory questions plus core concept questions for the Canons of Ascertainability, Prepotence, Individualisation, Sought-Heading, Context, Permanence, Currency, and Consistence. It is not yet a comprehensive question bank for every substantive chapter and rule. Add questions only after checking the corresponding source pages. Never use a guessed page/rule reference.
 
 ## Extend the question bank
 Edit the `window.CCC_QUESTIONS` array in `questions.js`. Each question has:
@@ -41,5 +41,5 @@ This first version is a GitHub-hosted, version-controlled static app; the practi
 ## Current scope
 - App UI and study interactions are implemented.
 - Chapter structure covers the parts listed in the scanned contents.
-- Sample practice questions are included, with references where verified.
-- Comprehensive rules/examples coverage should be added topic by topic after checking the source.
+- 54 starter questions are included, with source references where verified.
+- Broader rule and worked-example coverage should continue chapter by chapter after checking the source.
